@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jaredchudzinski/Documents/scalaStuff/treeKata/src/test/scala/treeTest.scala:9:15: value heldValue is not a member of myPackage.MyNode[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(tree.heldValue > 0)[0m
+[0m[[0m[31merror[0m] [0m[0m		            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
