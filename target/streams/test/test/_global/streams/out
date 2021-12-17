@@ -1,18 +1,15 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(treeKata.treeTest, org.scalatest.tools.Framework$$anon$1@1df63c21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(treeKata.treeTest, org.scalatest.tools.Framework$$anon$1@c32071c, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mtreeTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Tree has one node with held Value greater then 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Tree has one node, left and right are null[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Tree's left node has held Values greater then 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Tree's right node has held Values greater then 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- Inorder Traversal Personal Test *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  ArrayBuffer(5, 6, 5, 7) did not equal ArrayBuffer(7, 5, 6, 5) (treeTest.scala:55)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- Inorder Traversal Online Test *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  ArrayBuffer(5, 12, 6, 1, 9) did not equal ArrayBuffer(9, 6, 5, 12, 1) (treeTest.scala:68)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 515 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Inorder Traversal Personal Test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Inorder Traversal Online Test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 306 milliseconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 6[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 2, canceled 0, ignored 0, pending 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m*** 2 TESTS FAILED ***[0m[0m
-[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
-[0m[[0m[31merror[0m] [0m[0m	treeKata.treeTest[0m
-[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	treeKata.treeTest[0m
